@@ -1,4 +1,4 @@
-# rancherd-upgrade
+# Rancherd-upgrade
 
 rancherd-upgrade is an image that is responsible of upgrading rancherd version via the [System Upgrade Controller](https://github.com/rancher/system-upgrade-controller), it does that by doing the following:
 
